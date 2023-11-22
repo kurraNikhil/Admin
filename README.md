@@ -1,6 +1,6 @@
 **HELPFUL LINKS**
 
-- View <a href="https://github.com/kurraNikhil/Admin.git" target="_blank">Github Repository</a>
+- View <a href="https://github.com/supriya/Admin.git" target="_blank">Github Repository</a>
 
 ## Table of Contents
 
