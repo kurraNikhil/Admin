@@ -410,7 +410,7 @@ function Profile() {
                   Mobile:{" "}
                 </Text>
                 <Text fontSize="sm" color="#fff" fontWeight="400">
-                  (91) 733 722 0561
+                  (9) 733 722 0569
                 </Text>
               </Flex>
               <Flex align="center" mb="18px">
