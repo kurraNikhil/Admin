@@ -1,4 +1,5 @@
 import React from "react";
+import Gi from 'Gi';
 import ReactDOM from "react-dom";
 import { HashRouter, Route, Switch, Redirect } from "react-router-dom";
 
